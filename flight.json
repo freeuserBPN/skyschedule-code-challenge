@@ -1,0 +1,51 @@
+﻿{
+  "type": "flightData",
+  "dataSource": "flight-service",
+  "data": [
+    {
+      "flightId": 1,
+      "name": "flight-A",
+      "arrival": "2020-02-06T03:50:00+05:30",
+      "departure": "2020-02-07T04:50:00+05:30",
+      "passengers": 50,
+      "sourcePort": "Delhi",
+      "destinationPort": "Pune"
+    },
+    {
+      "flightId": 2,
+      "name": "flight-B",
+      "arrival": "2020-02-06T03:50:00+05:30",
+      "departure": "2020-02-06T04:50:00+05:30",
+      "passengers": 50,
+      "sourcePort": "Delhi",
+      "destinationPort": "Chennai"
+    },
+    {
+      "flightId": 3,
+      "name": "flight-C",
+      "arrival": "2020-02-06T05:50:00+05:30",
+      "departure": "2020-02-07T04:50:00+05:30",
+      "passengers": 50,
+      "sourcePort": "Delhi",
+      "destinationPort": "Mumbai"
+    },
+    {
+      "flightId": 4,
+      "name": "flight-D",
+       "arrival": "2020-02-06T03:50:00+05:30",
+      "departure": "2020-02-06T04:50:00+05:30",
+      "passengers": 50,
+      "sourcePort": "Chennai",
+      "destinationPort": "Delhi"
+    },
+    {
+      "flightId": 5,
+      "name": "flight-E",
+       "arrival": "2020-03-06T03:50:00+05:30",
+      "departure": "2020-03-06T04:50:00+05:30",
+      "passengers": 50,
+      "sourcePort": "Mumbai",
+      "destinationPort": "Delhi"
+    }
+  ]
+}
