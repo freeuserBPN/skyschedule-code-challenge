@@ -1,7 +1,7 @@
 Airport manager to track flights at his airport
 
 Prerequisite:
-Maven
+Maven, 
 jdk-8
 
 Instructions to run this application
